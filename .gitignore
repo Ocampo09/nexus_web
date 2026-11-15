@@ -1,0 +1,2 @@
+uploads/noticias/*
+!uploads/noticias/.gitkeep
